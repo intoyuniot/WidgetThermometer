@@ -1,0 +1,24 @@
+{
+    "name": "WidgetThermometer",
+    "version": "1.0.0",
+    "keywords": "Widget,Thermometer",
+    "description": "温度计应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetThermometer.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "dependencies":
+    [
+        {
+            "name": "IntoRobot_DHT",
+            "frameworks": "arduino"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
